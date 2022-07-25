@@ -12,6 +12,13 @@ Please don't judge yet! I've only made very little progress and I barly even kno
 
 No Soft Dependencies
 
+# Planned Features
+Have a GUI Menu for the Staff
+
+For a Spell, I wanna add the ability to fly around for a certain amount of time.
+Another Spell idea is teleportation. Might be done with /commands or something easier for bedrock players.
+
+A lightning Spell also sounds interesting.
 
 # Credits
 MrRagtime or better known as **Mr. Ragtime**
