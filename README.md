@@ -27,4 +27,4 @@ MrRagtime or better known as **Mr. Ragtime**
 
 I'm free to take suggestions anytime and it don't matter where.
 
-**Don't DM me for suggestions since my DMs are closed as of right now.**
+**Don't DM me on Discord for suggestions since my DMs are closed as of right now.**
