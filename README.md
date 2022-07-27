@@ -6,19 +6,19 @@ A Skript for Minecraft that adds Witchcraft!
 Please don't judge yet! I've only made very little progress and I barly even know anything about Witchcraft.
 
 # Main Dependencies
-**Requires:** https://github.com/SkriptLang/Skript/releases	by SkriptLang
+**Requires:** Skript - https://github.com/SkriptLang/Skript/releases	by SkriptLang
 
-**Requires:** https://github.com/ShaneBeee/SkBee by ShaneBeee
+**Requires:** SkBee - https://github.com/ShaneBeee/SkBee by ShaneBeee
+
+**Requires:** SkJade - https://github.com/Ankoki/SkJade by Ankoki
 
 No Soft Dependencies
 
 # Planned Features
-Have a GUI Menu for the Staff
 
-For a Spell, I wanna add the ability to fly around for a certain amount of time.
-Another Spell idea is teleportation. Might be done with /commands or something easier for bedrock players.
+Create your own personal Witch Hut
 
-A lightning Spell also sounds interesting.
+Have the player pay to use the Kettle and probably more soon.
 
 # Credits
 MrRagtime or better known as **Mr. Ragtime**
