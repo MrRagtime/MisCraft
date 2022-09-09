@@ -60,24 +60,6 @@ Phiwa's GitHub: https://github.com/Phiwa
 
 My GitHub: https://github.com/MrRagtime
 
-# Inspiration
-
-Manly from WitcheryX but I've gotten some ideas from both, Bewitchment and Witchery.
-
-https://www.spigotmc.org/resources/witcheryx-spells-fetishes.57918/
-
-https://www.curseforge.com/minecraft/mc-mods/bewitchment
-
-https://www.curseforge.com/minecraft/mc-mods/witchery | https://sites.google.com/site/witcherymod/home
-
-# Do I, **Mr. Ragtime** even have permission from those authors?
-
-Short answer is no, the author of Bewitchment never or ever will reply back and the chery on top is Witchery's author has disappeared.
-
-No need to ask the author of WitcheryX because that is based off of Witchery.
-
 # Where can I send a suggetion?
 
 I'm free to take suggestions anytime and it don't matter where.
-
-**Don't DM me on Discord for suggestions since my DMs are closed as of right now.**
