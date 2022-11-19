@@ -1,5 +1,5 @@
 # MisCraft
-**This will most likey be in alpha stages for sometimes.**
+**I've archived this because I have no idea what to add to this anymore**
 
 A Skript for Minecraft that adds Witchcraft!
 
